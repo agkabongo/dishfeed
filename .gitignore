@@ -1,6 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 [core]
-excludesfile = /home/agkabongo/.gitignore
+excludesfile = /home/agkabongo/dishfeed/.gitignore
 # dependencies
 /node_modules
 /.pnp
