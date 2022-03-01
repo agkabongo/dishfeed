@@ -3,8 +3,7 @@ Title: DishFeed
 Date: '2022-03-01'
 Spoiler: 'Create a Meal Finder app using React.js and fetching Data from themealdb.com API'
 ---
-
-&nbsp;
+ &nbsp;
 
 ## 🙋‍♀️ Hi there          
 I'm Agnes Kabongo, Frontend Developer. I love creative challenges and I'm looking for new opportunities in a creative environment where I can hone my skills and hone my craft. 
